@@ -24,7 +24,7 @@ Python | MATLAB | SQL | Machine Learning | Deep Learning | Computer Vision | Dat
 - Applied Machine Learning
 - Data Analytics
 - Computer Vision
-- Biomedical & Helathcare Applications
+- Biomedical & Healthcare Applications
 ---
 
 📍 Athens, Greece
