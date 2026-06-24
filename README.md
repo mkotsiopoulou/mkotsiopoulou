@@ -1,16 +1,31 @@
-## Hi there 👋
+# Marina Kotsiopoulou
+Data Scientist | Computer Science & Biomedical Informatics
 
-<!--
-**mkotsiopoulou/mkotsiopoulou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio.
+I am a Data Scientist with a background in Computer Science and Biomedical Informatics.
+My work focuses on machine learning, computer vision, data analytics, with a particular interest in healthcare, biomedical applications,and data-drivem desicion making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Medical Image Registration](https://gitjub.com/mkotsiopoulou/Medical-Image-Resgistration)
+- [CNN Image Classification](https://gitjub.com/mkotsiopoulou/CNN-Image-Classification)
+- [Eigenfaces Face Recognition](https://gitjub.com/mkotsiopoulou/eigefaces-face-recognition)
+- [Cell Segmentation Analysis](https://gitjub.com/mkotsiopoulou/cell-segmentation-analysis)
+
+---
+
+## Techincal Stack
+Python | MATLAB | SQL | Machine Learning | Deep Learning | Computer Vision | Data Analysis | OpenCV | Git
+
+---
+
+## Current Focus
+- Applied Machine Learning
+- Data Analytics
+- Computer Vision
+- Biomedical & Helathcare Applications
+---
+
+📍 Athens, Greece
+🔗 [LinkedIn](https://www.linkedin.com/in/marina-kotsiopoulou/)
