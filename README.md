@@ -11,6 +11,7 @@ Welcome to my GitHub portfolio. I am a Data Scientist with a background in Compu
 - [Eigenfaces Face Recognition](https://github.com/mkotsiopoulou/eigenfaces-face-recognition)
 - [Cell Segmentation Analysis](https://github.com/mkotsiopoulou/cell-segmentation-analysis)
 - [MTF Homogeneity Analysis](https://github.com/mkotsiopoulou/mtf-homegeneity-analysis)
+- [MNIST ANN Classification](https://github.com/mkotsiopoulou/mnist-ann-classification)
 
 ---
 
