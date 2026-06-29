@@ -6,9 +6,9 @@ Welcome to my GitHub portfolio. I am a Data Scientist with a background in Compu
 ---
 
 ## Featured Projects
-- [Medical Image Registration](https://github.com/mkotsiopoulou/Medical-Image-Resgistration)
+- [Medical Image Registration](https://github.com/mkotsiopoulou/Medical-Image-Registration)
 - [CNN Image Classification](https://github.com/mkotsiopoulou/CNN-Image-Classification)
-- [Eigenfaces Face Recognition](https://github.com/mkotsiopoulou/eigefaces-face-recognition)
+- [Eigenfaces Face Recognition](https://github.com/mkotsiopoulou/eigenfaces-face-recognition)
 - [Cell Segmentation Analysis](https://github.com/mkotsiopoulou/cell-segmentation-analysis)
 
 ---
