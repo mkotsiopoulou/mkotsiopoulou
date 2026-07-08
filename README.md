@@ -6,6 +6,7 @@ Welcome to my GitHub portfolio. I am a Data Scientist with a background in Compu
 ---
 
 ## Featured Projects
+- [American Sign Language Recognition](https://github.com/mkotsiopoulou/American-Sign-Language-Recognition/)
 - [Medical Image Registration](https://github.com/mkotsiopoulou/Medical-Image-Registration)
 - [CNN Image Classification](https://github.com/mkotsiopoulou/CNN-Image-Classification)
 - [Eigenfaces Face Recognition](https://github.com/mkotsiopoulou/eigenfaces-face-recognition)
